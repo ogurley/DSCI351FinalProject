@@ -1,3 +1,4 @@
+### Owen Gurley and Shaaz Ali
 ## ChatDB: Using Natural Language to Connect to DBMS 
 
 ### Built With
