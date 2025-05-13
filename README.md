@@ -1,6 +1,7 @@
 # ChatDB: Using NLP to Connect to DBMS  
 ### Owen Gurley and Shaaz Ali
-ChatDB allows users to query SQL and NoSQL databases using natural language. This project uses the Gemini API to convert human-readable questions into database queries.
+ChatDB allows users to query SQL and NoSQL databases using natural language. 
+This project uses the Gemini API to convert human-readable questions into database queries.
 
 ## Step by Step Guide
 1. Copy the repository https://github.com/ogurley/DSCI351.git
