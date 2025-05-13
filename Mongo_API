@@ -3,7 +3,7 @@ from Mongo_Handler import run_mongo
 from pprint import pprint
 
 #api key here
-genai_client = genai.Client(api_key='AIzaSyDT2QNjjHXXzrSQwqTxzirfDTb6oCPx9Vk')
+genai_client = genai.Client(api_key='')
 
 #training here
 def build_prompt_mongo(user_prompt: str) -> str:
