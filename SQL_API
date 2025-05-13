@@ -1,6 +1,6 @@
 from google import genai
 import pandas as pd
-from SQL_Handler import run_sql_query
+from SQL_Handler import run_sql
 from pprint import pprint
 
 client = genai.Client(api_key="AIzaSyDT2QNjjHXXzrSQwqTxzirfDTb6oCPx9Vk")
@@ -124,7 +124,7 @@ if __name__ == "__main__":
     sql_string = nl_to_sql(nl)  # Convert NL to SQL using Gemini
     print(sql_string) # Show the generated SQL command
 
-    result = run_sql_query(sql_string)
+    result = run_sql(sql_string)
 
     if isinstance(result, pd.DataFrame):
         pprint(result.to_dict(orient="records"))
