@@ -44,7 +44,7 @@ def run_mongo(cmd):
 
     #cut off.limit(N) since reader only does for 3
     m      = re.search(r'(\.limit\(\s*(\d+)\s*\))', cmd)
-    limit  = int(m.group(1)) if m and m.group(1) else None
+    limit  = int(m.group(2)) if m and m.group(2) else None
     cmd    = cmd[:m.start()] if m else cmd
 
     # db.<coll>.<method>(args)
