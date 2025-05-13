@@ -5,3 +5,5 @@
 ### Prerequisites
 
 ### Installation
+
+### Please highlight where the personal API keys needs to be added.
