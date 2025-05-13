@@ -4,6 +4,7 @@ ChatDB allows users to query SQL and NoSQL databases using natural language. Thi
 
 ## Step by Step Guide
 1. Copy the repository 
+2. 
 
 ## Prerequisites
 -Python
@@ -13,6 +14,8 @@ ChatDB allows users to query SQL and NoSQL databases using natural language. Thi
 -AWS EC2 Instance 
 
 ## API Key
+-On Mongo_API and SQL_API respectively, locate at the top "#api key here"
+genai_client = genai.Client(api_key='your api key goes here')
 
 
 ## Installation
