@@ -9,7 +9,7 @@ This project uses the Gemini API to convert human-readable questions into databa
 3. Install requirements.txt pip install -r requirements.txt
 
 ## Prerequisites
--Python
+Python
 -Pip
 -MySQL installed and started
 -MongoDB installed and started
