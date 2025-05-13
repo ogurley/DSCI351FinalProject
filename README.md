@@ -16,13 +16,14 @@ This project uses the Gemini API to convert human-readable questions into databa
 *genai_client = genai.Client(api_key='your api key goes here')
 
 
-Prerequisites
-Python
+## Prerequisites
 
-pip
+-Python
 
-MySQL installed and started
+-pip
 
-MongoDB installed and started
+-MySQL installed and started
 
-AWS EC2 Instance
+-MongoDB installed and started
+
+-AWS EC2 Instance
