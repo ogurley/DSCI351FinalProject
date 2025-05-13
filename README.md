@@ -3,8 +3,9 @@
 ChatDB allows users to query SQL and NoSQL databases using natural language. This project uses the Gemini API to convert human-readable questions into database queries.
 
 ## Step by Step Guide
-1. Copy the repository 
-2. 
+1. Copy the repository https://github.com/ogurley/DSCI351.git
+2. Create and activate a virtual environment
+3. Install requirements.txt pip install -r requirements.txt
 
 ## Prerequisites
 -Python
