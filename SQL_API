@@ -3,7 +3,7 @@ import pandas as pd
 from SQL_Handler import run_sql
 from pprint import pprint
 
-client = genai.Client(api_key="AIzaSyDT2QNjjHXXzrSQwqTxzirfDTb6oCPx9Vk")
+client = genai.Client(api_key="")
 
 def build_prompt(user_prompt):
     rules = """
