@@ -1,10 +1,11 @@
+# ChatDB: Using Natural Language to Connect to DBMS  
 ### Owen Gurley and Shaaz Ali
-## ChatDB: Using Natural Language to Connect to DBMS 
 
-### Built With
 
-### Prerequisites
+## Built With
 
-### Installation
+## Prerequisites
 
-### Please highlight where the personal API keys needs to be added.
+## Installation
+
+## Please highlight where the personal API keys needs to be added.
