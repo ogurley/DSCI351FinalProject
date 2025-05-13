@@ -12,7 +12,7 @@ This project uses the Gemini API to convert human-readable questions into databa
 4. Add Gemini API (seen below)
 
 ## API Key
-*On Mongo_API and SQL_API respectively, locate at the top "#api key here"
+*On Mongo_API and SQL_API respectively, locate at the top --- "#api key here"
 *genai_client = genai.Client(api_key='your api key goes here')
 
 ## Prerequisites
